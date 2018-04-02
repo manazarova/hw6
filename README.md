@@ -11,3 +11,9 @@
 ##### Задание 3
 
 ![Задание 3](https://github.com/manazarova/hw6/blob/master/3.png)
+
+### Sketch Engine
+
+##### Задание 1
+
+![Задание 1](https://github.com/manazarova/hw6/blob/master/4.png)
