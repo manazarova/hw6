@@ -2,7 +2,11 @@
 ### Google Ngram Viewer
 ##### Задание 1
 
-![Задание1](https://github.com/manazarova/hw6/blob/master/1.png)
+![Задание 1](https://github.com/manazarova/hw6/blob/master/1.png)
 
 ##### Задание 2
+
+![Задание 2](https://github.com/manazarova/hw6/blob/master/2.png)
+
+##### Задание 3
 
