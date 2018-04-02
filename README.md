@@ -10,3 +10,4 @@
 
 ##### Задание 3
 
+![Задание 3](https://github.com/manazarova/hw6/blob/master/3.png)
